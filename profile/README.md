@@ -11,7 +11,6 @@
 
 </div>
 
----
 
 ## 🚀 About Us | 关于我们要
 
@@ -20,19 +19,16 @@
 我们专注于构建真正具备 **"认知能力" (Cognitive Capabilities)** 的渗透智能体。
 > 💡 **我们的理念：** 我们拒绝机械的规则匹配 (Rule-based)，主张通过 AI 的**自主规划**与**深度理解**来应对复杂环境。我们旨在打造一个能像人类一样思考、拥有自主学习能力、能够在未知环境中动态调整策略的攻防系统，探索 AI 安全的无限可能。
 
----
-
 ## 竞赛成绩
 
 |起始日期|结束日期|竞赛|赛段|获奖情况|排名|
 |-|-|-|-|-|-|
-| 2025-11-10 | 2025-11-16 | [腾讯云黑客松智能渗透测试挑战赛](https://zc.tencent.com/competition/competitionHackathon?code=cha004) | 线上初赛 | N/A | 6 / 238 |
-| 2025-11-29 | 2025-11-29 | [腾讯云黑客松智能渗透测试挑战赛](https://zc.tencent.com/competition/competitionHackathon?code=cha004) | 线下决赛 | 三等奖 | 6 / 238 |
+| 2025-11-10 | 2025-11-16 | [腾讯云黑客松智能渗透测试挑战赛（第一期）](https://zc.tencent.com/competition/competitionHackathon?code=cha004) | 线上初赛 | N/A | 6 / 238 |
+| 2025-11-29 | 2025-11-29 | [腾讯云黑客松智能渗透测试挑战赛（第一期）](https://zc.tencent.com/competition/competitionHackathon?code=cha004) | 线下决赛 | 三等奖 | 6 / 238 |
 
 <a href="https://zc.tencent.com/competition/competitionHackathon?code=cha004">
     <img width="1604" height="460" alt="e72173454d8bfe896c3c0f781019bde9" src="https://github.com/user-attachments/assets/f1ad434c-6aa9-46e5-b7d1-5cb5fe612f3b" />
 </a>
----
 
 ## 🛠️ Open Source Projects | 开源项目
 
@@ -59,8 +55,6 @@
 | Project | Description |
 | :--- | :--- |
 | **[NeuroSploitX](https://github.com/Neuro-Sploit/NeuroSploitX)** | **我们的旗舰 Agent**。集成了自主规划、环境感知与动态策略调整的 AI 渗透测试智能体。这是我们将 "Cognitive Pentesting" 理念落地的核心载体。 |
-
----
 
 <div align="center">
 
