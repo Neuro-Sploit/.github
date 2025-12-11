@@ -24,10 +24,10 @@
 
 ## 竞赛成绩
 
-|日期|竞赛|赛段|获奖情况|排名|
-|-|-|-|-|-|
-| 2025-11-10 | [腾讯云黑客松智能渗透测试挑战赛](https://zc.tencent.com/competition/competitionHackathon?code=cha004) | 线上初赛 | N/A | 6 / 238 |
-| 2025-11-29 | [腾讯云黑客松智能渗透测试挑战赛](https://zc.tencent.com/competition/competitionHackathon?code=cha004) | 线下决赛 | 三等奖 | 6 / 238 |
+|起始日期|结束日期|竞赛|赛段|获奖情况|排名|
+|-|-|-|-|-|-|
+| 2025-11-10 | 2025-11-16 | [腾讯云黑客松智能渗透测试挑战赛](https://zc.tencent.com/competition/competitionHackathon?code=cha004) | 线上初赛 | N/A | 6 / 238 |
+| 2025-11-29 | 2025-11-29 | [腾讯云黑客松智能渗透测试挑战赛](https://zc.tencent.com/competition/competitionHackathon?code=cha004) | 线下决赛 | 三等奖 | 6 / 238 |
 
 <img width="1604" height="460" alt="e72173454d8bfe896c3c0f781019bde9" src="https://github.com/user-attachments/assets/f1ad434c-6aa9-46e5-b7d1-5cb5fe612f3b" />
 
