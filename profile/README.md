@@ -27,7 +27,7 @@
 | 2025-11-29 | 2025-11-29 | [腾讯云黑客松智能渗透测试挑战赛（第一期）](https://zc.tencent.com/competition/competitionHackathon?code=cha004) | 线下决赛 | 三等奖 | 6 / 238 |
 
 <a href="https://zc.tencent.com/competition/competitionHackathon?code=cha004">
-    <img width="1604" height="460" alt="e72173454d8bfe896c3c0f781019bde9" src="https://github.com/user-attachments/assets/f1ad434c-6aa9-46e5-b7d1-5cb5fe612f3b" />
+    <img width="1604" height="460" alt="e72173454d8bfe896c3c0f781019bde9" src="https://github.com/user-attachments/assets/f1ad434c-6aa9-46e5-b7d1-5cb5fe612f3b" />
 </a>
 
 ## 🛠️ Open Source Projects | 开源项目
@@ -41,7 +41,7 @@
 | :--- | :--- |
 | **[Competition API Server](https://github.com/Neuro-Sploit/tencent-cloud-hackathon-intelligent-pentest-competition-api-server)** | **本地靶场模拟器**。对比赛平台 API 进行完整模拟，支持本地**不限次调试**与训练，打破比赛环境的次数限制。 |
 | **[Evaluation System](https://github.com/Neuro-Sploit/tencent-cloud-hackathon-intelligent-pentest-competition-evaluation)** | **自动化评估框架**。专为 CTF AI Agent 设计的自动化评分与能力验证系统，用于快速迭代 Agent 策略。 |
-| **[Enhanced Scoreboard](https://github.com/Neuro-Sploit/tencent-cloud-hackathon-intelligent-pentest-competition-scoreboard)** | **增强版排行榜**。提供更丰富的数据可视化与实时分析功能，帮助团队更好地洞察比赛态势。 |
+| **[Enhanced Scoreboard](https://github.com/Neuro-Sploit/tencent-cloud-hackathon-intelligent-pentest-competition-scoreboard)** <br> [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://tencent-cloud-pentest-competition-scoreboard-2025.streamlit.app/) | **腾讯云黑客松智能渗透挑战赛第三方排行榜**。<br>可视化 rank 目录下每分钟一次的 Scoreboard 快照。支持选择不同的时间点查看当时的排行榜，并通过**折线图**观察队伍积分随时间变化的趋势。<br>⚠️ *免责声明：本排行榜为非官方维护，数据源自公开快照，仅供参考。* |
 
 ### 📊 XBOW Benchmark Research
 针对 AI 安全领域的权威数据集 XBOW，我们进行了深入的数据清洗与修正工作：
