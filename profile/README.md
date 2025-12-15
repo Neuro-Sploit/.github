@@ -51,11 +51,6 @@
 | **[XBOW Fixes](https://github.com/Neuro-Sploit/xbow-validation-benchmarks)** | **Benchmark 修正版**。修复了原始 XBOW Benchmark 中的错误与不一致，提供更准确的基准测试环境。 |
 | **[XBOW Analytics](https://github.com/Neuro-Sploit/xbow-validation-benchmarks-statistics)** | **数据深度分析**。针对 XBOW 数据集进行的统计学分析与洞察，揭示当前 Benchmark 的分布特征与潜在问题。 |
 
-### 🤖 Core Agent
-| Project | Description |
-| :--- | :--- |
-| **[NeuroSploitX](https://github.com/Neuro-Sploit/NeuroSploitX)** | **我们的旗舰 Agent**。集成了自主规划、环境感知与动态策略调整的 AI 渗透测试智能体。这是我们将 "Cognitive Pentesting" 理念落地的核心载体。 |
-
 <div align="center">
 
 Made with 💻 and 🧠 by the NeuroSploit Team.
